@@ -1,3 +1,103 @@
+## Tampilan Pada Menu Login
+Berikut adalah halaman login yang akan digunakan.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/047120b2-b5c6-4e38-b352-9d6bbfe5e983" alt="Tampilan Pada Menu Login" width="600">
+</div>
+
+---
+
+## Tampilan Pada Menu Register
+Berikut adalah halaman register untuk membuat akun.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/9fa3514c-c56e-4eeb-ba5c-fa0a339d2b1e" alt="Tampilan Pada Menu Register" width="600">
+</div>
+
+---
+
+## 1. Tampilan Pada Menu Homepage Admin
+Berikut adalah halaman homepage admin pada student management.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/00a5f040-9989-41a9-807b-af2a6d35c105" alt="Tampilan Pada Menu Homepage Admin" width="600">
+</div>
+
+---
+
+## 2. Tampilan Pada Student Page Admin
+Berikut adalah halaman untuk melakukan input data student yang dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/0c85ddd6-6b69-4890-b71a-40549f87b217" alt="Tampilan Pada Student" width="600">
+</div>
+
+---
+
+## 3. Tampilan Pada Teacher Page Admin 
+Berikut adalah halaman untuk melakukan input data teacher yang dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/d4b11e74-2e90-4e28-9421-b1fe4cc7781b" alt="Tampilan Pada Teacher" width="600">
+</div>
+
+---
+
+## 4. Tampilan Pada Course Page Admin
+Berikut adalah halaman untuk melakukan input course yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/7ac911a7-1226-4be4-89f9-04c04f572768" alt="Tampilan Pada Course" width="600">
+</div>
+
+---
+
+## 5. Tampilan Pada Batches Page Admin
+Berikut adalah halaman untuk melakukan input batches yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/63803632-29e8-4881-80b2-095e0ee15e9f" alt="Tampilan Pada Bacthes" width="600">
+</div>
+
+---
+
+## 6. Tampilan Pada Enrollment Page Admin
+Berikut adalah halaman untuk melakukan input enrollment yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/d422aa07-3307-4199-97e3-89f22642ba76" alt="Tampilan Pada Enrollment" width="600">
+</div>
+
+---
+
+## 7. Tampilan Pada Payment Page Admin
+Berikut adalah halaman untuk melakukan input payment yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/8855eaeb-e265-478f-886f-73c3dba52481" alt="Tampilan Pada Payment" width="600">
+</div>
+
+---
+
+## 8. Tampilan Payment Receipt
+Tampilan dari halaman payment receipt ketika dilakukan print, yang dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/683214a7-992b-49c8-acc2-906aa0b66f06" width="600">
+</div>
+
+---
+
+## 9. Tampilan Home User
+Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/d89d9737-5c82-408b-a4f7-9758c22c983f" alt="Tampilan Home User" width="600">
+</div>
+
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
