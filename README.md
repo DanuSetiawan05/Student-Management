@@ -1,166 +1,164 @@
-## Tampilan Pada Menu Login
-Berikut adalah halaman login yang akan digunakan.
+# 🎓 Student Management System
+
+A web-based student management system with multi-role access (**Admin** & **User**). Built with Laravel, it streamlines academic administration — managing students, teachers, courses, batches, enrollments, and payments — while giving general users an informative campus profile experience.
+
+## ✨ Key Features
+
+### For Admin
+- Secure login with role-based access
+- Dashboard with **data visualization** (charts showing student & teacher distribution/overview)
+- Full CRUD (Create, Read, Update, Delete) for:
+  - **Student** data (with photo upload)
+  - **Teacher** data (with photo upload)
+  - **Course** data
+  - **Batch** data
+  - **Enrollment** data
+  - **Payment** data
+- **Export payment receipts to PDF** for easier record-keeping and reporting
+
+### For User
+- Register & login
+- Home page with informative navigation (Campus Profile, News, Achievements, Contact)
+- View campus/company profile details
+- View news (Berita) and student achievements (Prestasi)
+- Send messages via contact form (delivered to admin's email)
+- Logout
+
+## 📸 Screenshots
+
+### User Side
+
+**Login**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/047120b2-b5c6-4e38-b352-9d6bbfe5e983" alt="Tampilan Pada Menu Login" width="600">
+  <img src="https://github.com/user-attachments/assets/047120b2-b5c6-4e38-b352-9d6bbfe5e983" alt="Login Page" width="600">
 </div>
 
----
-
-## Tampilan Pada Menu Register
-Berikut adalah halaman register untuk membuat akun.
+**Register**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/9fa3514c-c56e-4eeb-ba5c-fa0a339d2b1e" alt="Tampilan Pada Menu Register" width="600">
+  <img src="https://github.com/user-attachments/assets/9fa3514c-c56e-4eeb-ba5c-fa0a339d2b1e" alt="Register Page" width="600">
 </div>
 
----
-
-## 1. Tampilan Pada Menu Homepage Admin
-Berikut adalah halaman homepage admin pada student management.
+**Home User**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/00a5f040-9989-41a9-807b-af2a6d35c105" alt="Tampilan Pada Menu Homepage Admin" width="600">
+  <img src="https://github.com/user-attachments/assets/d89d9737-5c82-408b-a4f7-9758c22c983f" alt="Home User" width="600">
 </div>
 
----
+*Displays the homepage after login, where users can browse available campus information sections.*
 
-## 2. Tampilan Pada Student Page Admin
-Berikut adalah halaman untuk melakukan input data student yang dilakukan oleh admin.
+### Admin Side
+
+**Dashboard (Homepage Admin)**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/0c85ddd6-6b69-4890-b71a-40549f87b217" alt="Tampilan Pada Student" width="600">
+  <img src="https://github.com/user-attachments/assets/00a5f040-9989-41a9-807b-af2a6d35c105" alt="Admin Dashboard" width="600">
 </div>
 
----
+*Shows a welcome overview along with charts comparing student and teacher data.*
 
-## 3. Tampilan Pada Teacher Page Admin 
-Berikut adalah halaman untuk melakukan input data teacher yang dilakukan oleh admin.
+**Student Management**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/d4b11e74-2e90-4e28-9421-b1fe4cc7781b" alt="Tampilan Pada Teacher" width="600">
+  <img src="https://github.com/user-attachments/assets/0c85ddd6-6b69-4890-b71a-40549f87b217" alt="Student Page" width="600">
 </div>
 
----
-
-## 4. Tampilan Pada Course Page Admin
-Berikut adalah halaman untuk melakukan input course yang akan dilakukan oleh admin.
+**Teacher Management**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/7ac911a7-1226-4be4-89f9-04c04f572768" alt="Tampilan Pada Course" width="600">
+  <img src="https://github.com/user-attachments/assets/d4b11e74-2e90-4e28-9421-b1fe4cc7781b" alt="Teacher Page" width="600">
 </div>
 
----
-
-## 5. Tampilan Pada Batches Page Admin
-Berikut adalah halaman untuk melakukan input batches yang akan dilakukan oleh admin.
+**Course Management**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/63803632-29e8-4881-80b2-095e0ee15e9f" alt="Tampilan Pada Bacthes" width="600">
+  <img src="https://github.com/user-attachments/assets/7ac911a7-1226-4be4-89f9-04c04f572768" alt="Course Page" width="600">
 </div>
 
----
-
-## 6. Tampilan Pada Enrollment Page Admin
-Berikut adalah halaman untuk melakukan input enrollment yang akan dilakukan oleh admin.
+**Batch Management**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/d422aa07-3307-4199-97e3-89f22642ba76" alt="Tampilan Pada Enrollment" width="600">
+  <img src="https://github.com/user-attachments/assets/63803632-29e8-4881-80b2-095e0ee15e9f" alt="Batches Page" width="600">
 </div>
 
----
-
-## 7. Tampilan Pada Payment Page Admin
-Berikut adalah halaman untuk melakukan input payment yang akan dilakukan oleh admin.
+**Enrollment Management**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/8855eaeb-e265-478f-886f-73c3dba52481" alt="Tampilan Pada Payment" width="600">
+  <img src="https://github.com/user-attachments/assets/d422aa07-3307-4199-97e3-89f22642ba76" alt="Enrollment Page" width="600">
 </div>
 
----
-
-## 8. Tampilan Payment Receipt
-Tampilan dari halaman payment receipt ketika dilakukan print, yang dilakukan oleh admin.
+**Payment Management**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/683214a7-992b-49c8-acc2-906aa0b66f06" width="600">
+  <img src="https://github.com/user-attachments/assets/8855eaeb-e265-478f-886f-73c3dba52481" alt="Payment Page" width="600">
 </div>
 
----
-
-## 9. Tampilan Home User
-Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
+**Payment Receipt (PDF Export)**
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/d89d9737-5c82-408b-a4f7-9758c22c983f" alt="Tampilan Home User" width="600">
+  <img src="https://github.com/user-attachments/assets/683214a7-992b-49c8-acc2-906aa0b66f06" alt="Payment Receipt PDF" width="600">
 </div>
 
+## 🛠️ Tech Stack
 
----
+- **Backend:** Laravel 11 (PHP)
+- **Frontend:** HTML, CSS, JavaScript, Blade Template
+- **Database:** MySQL
+- **Reporting:** PDF export for payment receipts
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## 🚀 Getting Started
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### Prerequisites
+- PHP >= 8.0
+- Composer
+- MySQL
+- Node.js & NPM
 
-## About Laravel
+### Installation
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+```bash
+# 1. Clone the repository
+git clone https://github.com/DanuSetiawan05/Student-Management.git
+cd Student-Management
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# 2. Install PHP dependencies
+composer install
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+# 3. Install frontend dependencies
+npm install
+npm run dev
 
-## Learning Laravel
+# 4. Copy the environment file and generate the app key
+cp .env.example .env
+php artisan key:generate
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+# 5. Configure your database in the .env file
+# DB_DATABASE=student_management
+# DB_USERNAME=root
+# DB_PASSWORD=
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+# 6. Run database migrations
+php artisan migrate
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+# 7. Serve the application
+php artisan serve
+```
 
-## Laravel Sponsors
+The app will be available at `http://127.0.0.1:8000`.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## 👥 Team
 
-### Premium Partners
+This project was built collaboratively as a group project:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+| Name |
+|---|
+| Annas Wicaksono | 
+| Mochammad Irsyad Kurniawan | 
+| **Muhammad Danu Setiawan** | 
+| Muhammad Ilza Batistuta | 
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 📄 License
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is open source and available for learning purposes.
