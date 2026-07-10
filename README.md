@@ -1,4 +1,4 @@
-# 🎓 Student Management System
+# Student Management System
 
 A web-based student management system with multi-role access (**Admin** & **User**). Built with Laravel, it streamlines academic administration — managing students, teachers, courses, batches, enrollments, and payments — while giving general users an informative campus profile experience.
 
