@@ -1,8 +1,8 @@
 # Student Management System
 
-A web-based student management system with multi-role access (**Admin** & **User**). Built with Laravel, it streamlines academic administration — managing students, teachers, courses, batches, enrollments, and payments — while giving general users an informative campus profile experience.
+A web-based student management system with multi-role access (**Admin** & **User**). Built with Laravel, it streamlines academic administration managing students, teachers, courses, batches, enrollments, and payments. While giving general users an informative campus profile experience.
 
-## ✨ Key Features
+## Key Features
 
 ### For Admin
 - Secure login with role-based access
@@ -24,7 +24,7 @@ A web-based student management system with multi-role access (**Admin** & **User
 - Send messages via contact form (delivered to admin's email)
 - Logout
 
-## 📸 Screenshots
+## Screenshots
 
 ### User Side
 
@@ -100,14 +100,14 @@ A web-based student management system with multi-role access (**Admin** & **User
   <img src="https://github.com/user-attachments/assets/683214a7-992b-49c8-acc2-906aa0b66f06" alt="Payment Receipt PDF" width="600">
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Laravel 11 (PHP)
 - **Frontend:** HTML, CSS, JavaScript, Blade Template
 - **Database:** MySQL
 - **Reporting:** PDF export for payment receipts
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - PHP >= 8.0
@@ -147,7 +147,7 @@ php artisan serve
 
 The app will be available at `http://127.0.0.1:8000`.
 
-## 👥 Team
+## Team
 
 This project was built collaboratively as a group project:
 
@@ -159,6 +159,6 @@ This project was built collaboratively as a group project:
 | Muhammad Ilza Batistuta | 
 
 
-## 📄 License
+## License
 
 This project is open source and available for learning purposes.
