@@ -2,6 +2,8 @@
 
 A web-based student management system with multi-role access (**Admin** & **User**). Built with Laravel, it streamlines academic administration managing students, teachers, courses, batches, enrollments, and payments. While giving general users an informative campus profile experience.
 
+> *This project was completed as a coursework assignment for Web Enterprise Programming in semester 5, developed as a group project.*
+
 ## Key Features
 
 ### For Admin
